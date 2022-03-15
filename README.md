@@ -16,7 +16,7 @@
 * Languages: English(fluent), French(basics).
 
 And 
-✨ I WRITE THE CLEANEST CODE! ✨
+✨ **I WRITE THE CLEANEST CODE!** ✨
 
 <!--
 **Clare-Joyce/Clare-Joyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📖 Reading list 
+- Hobbies
+- Also dabble with writing (with aspirations of being a good writer)
 -->
