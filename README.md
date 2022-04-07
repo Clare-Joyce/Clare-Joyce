@@ -1,5 +1,7 @@
 # Hi there 👋, I am Clare-Joyce.
 
+[Alt](https://github.com/Clare-Joyce/Clare-Joyce/blob/main/Minimal%20Photocentric%20Job%20Hunting%20Blog%20Banner.png)
+
 <div style="text-align: justify"> A technology professional with diverse knowledge and experience in different fields, and 3+ years experience in analyzing data and building machine learning models. Interested in exploring the potential of machine learning algorithms and data analysis in addressing some major challenges in energy industries and improving energy reliability. Currently serving as a data analyst, analyzing data, and improving the estimation of energy reliability metrics in Sub-Saharan Africa.</div>
 
 <br>
